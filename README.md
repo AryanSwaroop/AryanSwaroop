@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github-profile-trophy.vercel.app/?username=AryanSwaroop&theme=darkhub
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanSwaroop&show_icons=true&theme=radical&hide=rank)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSwaroop&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
