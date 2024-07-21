@@ -4,4 +4,7 @@
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanSwaroop&show_icons=true&hide_rank=true&hide=stars) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSwaroop&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AryanSwaroop&theme=dark&background=000000)](https://git.io/streak-stats)
+
 </div>
