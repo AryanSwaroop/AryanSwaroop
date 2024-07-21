@@ -1,7 +1,9 @@
 
 <div align="center">
 
-(https://ibb.co/yFkKspx)(https://github.com/AryanSwaroop)
+()(https://github.com/AryanSwaroop)
+
+<img align="center" alt="Coding" width="100%" src="https://ibb.co/yFkKspx">
 
   
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanSwaroop&show_icons=true&hide_rank=true&hide=stars)                     
