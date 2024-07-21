@@ -1,8 +1,5 @@
 
 <div align="center">
-
-<img align="center" alt="Coding" width="400rem" src="https://ibb.co/yFkKspx"/>
-
   
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanSwaroop&show_icons=true&hide_rank=true&hide=stars)                     
 
