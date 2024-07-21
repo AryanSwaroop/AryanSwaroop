@@ -5,7 +5,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AryanSwaroop&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanSwaroop&show_icons=true&hide_rank=true&hide=stars&theme=dark&background=000000) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSwaroop&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanSwaroop&show_icons=true&hide_rank=true&hide=stars&theme=dark&background=000000) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSwaroop&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
