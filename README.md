@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 https://github-profile-trophy.vercel.app/?username=AryanSwaroop&theme=darkhub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSwaroop)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSwaroop&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
