@@ -2,9 +2,11 @@
 
 [![MasterHead](https://github.com/user-attachments/assets/7727bec3-d0ef-4bc8-a2f3-001ba8085624)](https://github.com/AryanSwaroop)
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanSwaroop&show_icons=true&hide_rank=true&hide=stars) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSwaroop&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AryanSwaroop&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanSwaroop&show_icons=true&hide_rank=true&hide=stars&theme=dark&background=000000) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSwaroop&layout=donut&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 </div>
