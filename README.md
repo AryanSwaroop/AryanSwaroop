@@ -5,5 +5,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AryanSwaroop)](https://git.io/streak-stats)
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSwaroop&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
